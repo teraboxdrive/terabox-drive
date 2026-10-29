@@ -1,4 +1,4 @@
-# TeraBox Drive v1.0.0
+# TeraBox Drive v0.3.0
 ## First Public Release | Free Windows Cloud Storage Desktop Application
 
 **Bring Your Cloud Storage Closer to Your Windows Desktop.**
