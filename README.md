@@ -485,7 +485,7 @@ Users are responsible for complying with the applicable terms and policies of th
 | Property | Information |
 |---|---|
 | Product | TeraBox Drive |
-| Release | v1.0.0 |
+| Release | v0.3.0 |
 | Release Type | First Public Release |
 | Platform | Windows |
 | Distribution | Freeware |
