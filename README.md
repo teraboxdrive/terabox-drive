@@ -1,5 +1,3 @@
-Samajh gaya. README mein sirf user-facing problems aur unke solutions honge. Koi internal filenames, code, libraries, commands, implementation details ya technical architecture mention nahi hogi.
-
 TeraBox Drive — Major Update
 
 A more stable, reliable, and smoother cloud drive experience.
